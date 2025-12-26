@@ -39,9 +39,7 @@ Late deliveries can stem from multiple sources—seller handling delays, carrier
 
 ### 1. The Satisfaction Tipping Point (Behavioral Threshold Analysis)
 
-```markdown
 ![Behavioral Analysis: Customer Satisfaction vs Delivery Delay Buckets showing sharp score decline after 3-day threshold](images/behavioral_delay_satisfaction_threshold.png)
-```
 
 **Result:** *Identified a ~72-hour grace period after which delivery delays cause disproportionate drops in customer satisfaction.*
 
@@ -49,9 +47,7 @@ Late deliveries can stem from multiple sources—seller handling delays, carrier
 
 ### 2. Identifying the True Bottleneck (SLA Delay Decomposition)
 
-```markdown
 ![SLA Delay Decomposition showing carrier transit as dominant contributor to late deliveries compared to seller handling](images/sla_delay_decomposition_carrier_vs_seller.png)
-```
 
 **Result:** *Demonstrated that ~85% of SLA violations originate during carrier transit rather than seller fulfillment.*
 
@@ -59,9 +55,7 @@ Late deliveries can stem from multiple sources—seller handling delays, carrier
 
 ### 3. The Priority Matrix (Geographic SLA Risk & Impact)
 
-```markdown
 ![Geographic SLA Risk Bubble Plot mapping order volume, average delivery delay, late rate, and absolute impact by Brazilian state with RJ as highest-risk region](images/geographic_sla_risk_bubble_plot.png)
-```
 
 **Result:** *Pinpointed Rio de Janeiro as the highest-ROI intervention zone due to its combination of high delay severity and large customer exposure.*
 
